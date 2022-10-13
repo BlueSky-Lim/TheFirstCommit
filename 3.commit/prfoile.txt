@@ -1,2 +1,2 @@
-email :
-gitID :
+email : bclouds1@gmail.com
+gitID : Bluesky
